@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\o.exe
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\o.deps.json
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\o.runtimeconfig.json
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\o.dll
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\o.pdb
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.AssemblyInfo.cs
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.dll
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\refint\o.dll
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.pdb
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\o.genruntimeconfig.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\ref\o.dll
