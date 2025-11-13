@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{5372154F-CF3D-4117-B202-875862D1D948}|#2\\#2.csproj|solutionrelative:#2\\#2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DCA3E44-EB05-43E3-8CDD-D0C8580BA9C6}|o\\o.csproj|c:\\users\\\u043F\u043A\\source\\repos\\o\\o\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DCA3E44-EB05-43E3-8CDD-D0C8580BA9C6}|o\\o.csproj|solutionrelative:o\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCA3E44-EB05-43E3-8CDD-D0C8580BA9C6}|o\\#1.csproj|c:\\users\\\u043F\u043A\\source\\repos\\o\\o\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCA3E44-EB05-43E3-8CDD-D0C8580BA9C6}|o\\#1.csproj|solutionrelative:o\\#1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "#2\\#2.cs",
               "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\o\\#2\\#2.cs",
               "RelativeToolTip": "#2\\#2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T17:13:42.226Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "o\\#1.cs",
               "ToolTip": "C:\\Users\\\u041F\u041A\\source\\repos\\o\\o\\#1.cs",
               "RelativeToolTip": "o\\#1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T16:41:11.107Z",
               "EditorCaption": ""

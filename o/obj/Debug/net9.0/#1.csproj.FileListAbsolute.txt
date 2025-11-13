@@ -1,0 +1,15 @@
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\#1.exe
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\#1.deps.json
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\#1.runtimeconfig.json
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\#1.dll
+C:\Users\ПК\source\repos\o\o\bin\Debug\net9.0\#1.pdb
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.AssemblyInfo.cs
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.sourcelink.json
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.dll
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\refint\#1.dll
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.pdb
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\#1.genruntimeconfig.cache
+C:\Users\ПК\source\repos\o\o\obj\Debug\net9.0\ref\#1.dll

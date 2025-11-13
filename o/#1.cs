@@ -8,7 +8,7 @@ try
     Console.WriteLine($"массив 1:");
     for (int i = 0; i < mas1.Length; i++)
     {
-        mas1[i] = r.NextDouble() *100;
+        mas1[i] = r.NextDouble() *100/1;
         Console.Write($"{mas1[i]:F0} ");
     }
     Console.WriteLine();
@@ -16,7 +16,7 @@ try
     Console.WriteLine($"массив 2:");
     for (int i = 0; i < mas2.Length; i++)
     {
-        mas2[i] = r.NextDouble() * 100;
+        mas2[i] = r.NextDouble() * 100/1;
         Console.Write($"{mas2[i]:F0} ");
     }
     Console.WriteLine();
